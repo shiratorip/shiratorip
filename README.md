@@ -23,11 +23,11 @@ Database: PostgreSQL, MongoDB, SQLite
 
 ---
 
-- 🔭 I’m currently working on #finding a job
-- 🌱 I’m currently learning #how to find a job
-- 👯 I’m looking to collaborate on #getting myself a job
-- 🤔 I’m looking for help with #getting a job
-- 💬 Ask me about #giving me a job
-- 😄 Pronouns: #job/less
-- ⚡ Fun fact: #I'm looking for a job
+- 🔭 I’m currently working on finding a job
+- 🌱 I’m currently learning how to find a job
+- 👯 I’m looking to collaborate on getting myself a job
+- 🤔 I’m looking for help with getting a job
+- 💬 Ask me about giving me a job
+- 😄 Pronouns: job/less
+- ⚡ Fun fact: I'm looking for a job
 
