@@ -10,9 +10,12 @@ Computer science student, digital artist. I like to do some programming, create 
 ## 💻 Tech Stack
 
 Frontend: JavaScript, React, Vue.js, HTML5, CSS3, Tailwind CSS
+
 Backend: Node.js, FastAPI, Flask, Express
-Desktopp: Python, C#, .NET, WPF
-Database: PostgreSQL, MongoDB, SQLite
+
+Desktop: Python, C#, .NET, WPF
+
+Databases: PostgreSQL, MongoDB, SQLite
 
 
 ## 📊 GitHub Stats
